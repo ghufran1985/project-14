@@ -1,0 +1,6 @@
+John Doe, 20, Computer Science
+Jane Smith, 22, Mathematics
+Alice Johnson, 19, Physics
+Bob Brown, 21, Chemistry
+Emily Davis, 23, BiologyName: Alice, Grade: 8, Favorite Subject: Math
+Name: Bob, Grade: 8, Favorite Subject: Science
